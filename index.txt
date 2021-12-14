@@ -3,3 +3,6 @@ git status
 git diff
 git commit --amend
 git marge
+コンフリクト
+pull request
+
